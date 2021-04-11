@@ -1,0 +1,35 @@
+a{
+  target:"_blank"
+  text-decoration:none; 
+}
+ul{
+  list-style-type:none;
+  margin:0;
+  padding:0;
+  overflow:hidden;
+  background-color:#87CEFA;
+}
+li{
+  float: left;
+}
+li a{
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding:25px 15px;
+  text-decoration: none;
+}
+.user_show{
+  background:url("https://img.xjh.me/desktop/img/61695208_p0.jpg") no-repeat center;
+  background-size:100px;
+  border-radius:30px;
+  width:200px;
+  height:200px;
+}
+.footer{
+  background-color:SteelBlue;
+  color:white;
+  text-align:center;
+  width:2000px;
+  height:190px;
+}
