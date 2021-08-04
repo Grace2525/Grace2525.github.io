@@ -2,6 +2,10 @@ a{
   target:"_blank"
   text-decoration:none; 
 }
+body {
+  background: url(https://img.xjh.me/desktop/img/59399592_p0.jpg) fixed center;
+  background-size: cover;
+}
 ul{
   list-style-type:none;
   margin:0;
