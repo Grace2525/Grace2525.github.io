@@ -11,7 +11,7 @@ ul{
   margin:0;
   padding:0;
   overflow:hidden;
-  background-color:#87CEFA;
+  background-color:#BcF1FF;
 }
 li{
   float: left;
@@ -24,7 +24,7 @@ li a{
   text-decoration: none;
 }
 li a:hover{
-  background-color:#66CCFF;
+  background-color:#87CEFA;
 }
 .user_show{
   background:url("https://img.xjh.me/desktop/img/61695208_p0.jpg") no-repeat center;
