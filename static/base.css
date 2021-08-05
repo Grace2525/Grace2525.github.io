@@ -23,6 +23,9 @@ li a{
   padding:25px 15px;
   text-decoration: none;
 }
+li a:hover{
+  background-color:#87CEEB;
+}
 .user_show{
   background:url("https://img.xjh.me/desktop/img/61695208_p0.jpg") no-repeat center;
   background-size:100px;
