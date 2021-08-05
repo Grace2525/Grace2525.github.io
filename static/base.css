@@ -24,7 +24,7 @@ li a{
   text-decoration: none;
 }
 li a:hover{
-  background-color:#87CEEB;
+  background-color:#66CCFF;
 }
 .user_show{
   background:url("https://img.xjh.me/desktop/img/61695208_p0.jpg") no-repeat center;
@@ -37,6 +37,6 @@ li a:hover{
   background-color:SteelBlue;
   color:white;
   text-align:center;
-  width:1850px;
-  height:190px;
+  width:1900px;
+  height:100px;
 }
