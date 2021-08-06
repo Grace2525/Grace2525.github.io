@@ -37,6 +37,7 @@ li a:hover{
   height:200px;
 }
 .footer{
+  bottom:0;
   background-color:SteelBlue;
   color:white;
   text-align:left;
