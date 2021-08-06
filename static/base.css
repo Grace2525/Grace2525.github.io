@@ -7,8 +7,8 @@ body {
   background-size:cover;
 }
 ul{
-  position fixed;
   top:0;
+  position:fixed;
   width:100%;
   list-style-type:none;
   margin:0;
