@@ -14,7 +14,7 @@ ul{
   margin:0;
   padding:0;
   overflow:hidden;
-  background-color:#9ED6FB;
+  background-color:rgba(158,214,251,0.85);
 }
 li{
   float: left;
@@ -27,15 +27,7 @@ li a{
   text-decoration: none;
 }
 li a:hover{
-  background-color:#87CEFA;
-}
-.user_show{
-  right:0;
-  background:url("https://img.xjh.me/desktop/img/61695208_p0.jpg") no-repeat center;
-  background-size:100px;
-  border-radius:30px;
-  width:200px;
-  height:200px;
+  background-color:rgba(135,206,250,0.85);
 }
 .footer{
   bottom:0;
