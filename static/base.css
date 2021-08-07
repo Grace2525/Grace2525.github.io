@@ -9,7 +9,7 @@ body {
 ul{
   top:0;
   position:fixed;
-  width:95%;
+  width:98%;
   list-style-type:none;
   margin:0;
   padding:0;
@@ -35,6 +35,6 @@ li a:hover{
   color:white;
   text-align:left;
   padding:20px;
-  width:1865px;
+  width:1860px;
   height:130px;
 }
