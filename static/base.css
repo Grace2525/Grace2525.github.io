@@ -30,7 +30,7 @@ li a:hover{
   background-color:rgba(135,206,250,0.85);
 }
 footer{
-  bottom:0px;
+  bottom:-340px;
   position:relative;
   background-color:rgba(70,130,180,0.85);
   color:white;
