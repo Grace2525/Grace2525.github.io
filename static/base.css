@@ -31,6 +31,7 @@ li a:hover{
 }
 footer{
   bottom:0;
+  position:relative;
   background-color:rgba(70,130,180,0.85);
   color:white;
   text-align:left;
