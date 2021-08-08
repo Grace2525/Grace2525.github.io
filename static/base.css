@@ -29,6 +29,9 @@ li a{
 li a:hover{
   background-color:rgba(135,206,250,0.85);
 }
+/*以上皆为导航栏*/
+
+/*页脚*/
 .footer{
   bottom:-1100px;
   position:relative;
