@@ -31,6 +31,16 @@ li a:hover{
 }
 /*以上皆为导航栏*/
 
+.owner_show{
+  float:left;
+  background-color:rgba(240,248,255,0.7);
+  border-radius:5px;
+  color:black;
+  width:690px;
+  padding:20px;
+  margin:30px;
+  right:250;
+}
 /*页脚*/
 .footer{
   bottom:-1100px;
