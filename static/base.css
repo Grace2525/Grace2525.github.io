@@ -6,6 +6,8 @@ body {
   background:url(https://img.xjh.me/desktop/bg/acg/63093148_p0.jpg) fixed center;
   background-size:cover;
 }
+
+/*导航栏*/
 ul{
   top:0px;
   position:fixed;
@@ -29,7 +31,6 @@ li a{
 li a:hover{
   background-color:rgba(135,206,250,0.85);
 }
-/*以上皆为导航栏*/
 
 /*自我介绍*/
 .owner_show{
