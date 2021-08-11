@@ -33,7 +33,6 @@ li a:hover{
 
 /*自我介绍*/
 .owner_show{
-  float:left;
   background-color:rgba(240,248,255,0.7);
   border-radius:5px;
   color:black;
