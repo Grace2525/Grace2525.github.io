@@ -44,8 +44,6 @@ li a:hover{
 }
 /*页脚*/
 .footer{
-  bottom:-1100px;
-  position:relative;
   background-color:rgba(70,130,180,0.85);
   color:white;
   text-align:left;
