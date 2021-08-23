@@ -8,27 +8,29 @@ body {
 }
 
 /*导航栏*/
-ul{
+.nav{
   top:0px;
   position:fixed;
   width:100%;
+  background-color:rgba(158,214,251,0.85);
+}
+.nav ul{
   list-style-type:none;
   margin:0px;
   padding:0px;
   overflow:hidden;
-  background-color:rgba(158,214,251,0.85);
 }
-li{
-  float: left;
+.nav li{
+  float:left;
 }
-li a{
+.nav li a{
   display: inline-block;
   color: white;
   text-align: center;
   padding:25px 15px;
   text-decoration: none;
 }
-li a:hover{
+.nav li a:hover{
   background-color:rgba(135,206,250,0.85);
 }
 
