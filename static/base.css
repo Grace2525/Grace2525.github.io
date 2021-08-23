@@ -40,7 +40,7 @@ li a:hover{
   width:530px;
   padding:20px;
   margin:30px;
-  right:250;
+  float:left;
 }
 /*页脚*/
 .footer{
