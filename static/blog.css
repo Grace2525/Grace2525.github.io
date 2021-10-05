@@ -1,4 +1,6 @@
 .blog_show{
+  top:50px;
+  position:relative;
   background-color:rgba(255,255,255,0.7);
   box-shadow: 1px 1px 5px rgba(136,136,136,0.7);
   border-radius:5px;
