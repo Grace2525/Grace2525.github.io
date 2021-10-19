@@ -39,6 +39,7 @@ body {
   background-color:rgba(240,248,255,0.7);
   border-radius:5px;
   color:black;
+  text-align:center;
   width:475px;
   height:1000px;
   padding:20px;
@@ -48,7 +49,7 @@ body {
 .footer{
   background-color:rgba(70,130,180,0.85);
   color:white;
-  text-align:left;
+  text-align:center;
   padding:20px;
   width:1860px;
   height:130px;
