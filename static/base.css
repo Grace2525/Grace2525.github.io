@@ -33,18 +33,6 @@ body {
 .nav li a:hover{
   background-color:rgba(135,206,250,0.85);
 }
-
-/*自我介绍*/
-.owner_show{
-  background-color:rgba(240,248,255,0.7);
-  border-radius:5px;
-  color:black;
-  text-align:center;
-  width:475px;
-  height:1000px;
-  padding:20px;
-  margin:30px 10px;
-}
 /*页脚*/
 .footer{
   background-color:rgba(70,130,180,0.85);
