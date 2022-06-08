@@ -1,12 +1,12 @@
 a{
-  target:"_blank"
+  target:"_blank";
   text-decoration:none; 
 }
 a:link{
-	color:black;
+  color:black;
 }
 a:visited{
-	color:black;
+  color:black;
 }
 a:hover{
 	color:white;
