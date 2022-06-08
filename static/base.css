@@ -2,6 +2,18 @@ a{
   target:"_blank"
   text-decoration:none; 
 }
+a:link{
+	color:#3399FF;
+}
+a:visited{
+	color:#3399FF;
+}
+a:hover{
+	color:#FFFFFF;
+}
+a:active{
+	color:#FFFFFF;
+}
 body {
   background:url(https://img.xjh.me/desktop/bg/acg/63093148_p0.jpg) fixed center;
   background-size:cover;
