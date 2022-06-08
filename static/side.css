@@ -13,7 +13,7 @@
 }
 
 .side li {
-  border: 1px solid black;
-  margin: -1px;
+  border: 5px solid black;
+  margin: -5px;
   padding: 20px;
 }
