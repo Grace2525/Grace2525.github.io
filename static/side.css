@@ -7,3 +7,13 @@
   padding:20px;
   margin:30px 10px;
 }
+.side ul {
+  padding: 20px;
+  list-style-type: none;
+}
+
+.side li {
+  border: 1px solid black;
+  margin: -1px;
+  padding: 20px;
+}
