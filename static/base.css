@@ -3,16 +3,16 @@ a{
   text-decoration:none; 
 }
 a:link{
-	color:#3399FF;
+	color:lightsteelblue;
 }
 a:visited{
-	color:#3399FF;
+	color:lightsteelblue;
 }
 a:hover{
-	color:#FFFFFF;
+	color:white;
 }
 a:active{
-	color:#FFFFFF;
+	color:white;
 }
 body {
   background:url(https://img.xjh.me/desktop/bg/acg/63093148_p0.jpg) fixed center;
