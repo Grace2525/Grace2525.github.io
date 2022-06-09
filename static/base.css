@@ -14,6 +14,22 @@ a:hover{
 a:active{
 	color:white;
 }
+blockquote{
+  background-color:rgba(250,250,250,0.85);
+	border-left:5px solid #86CAFB;
+	color:black;
+	padding:15px;
+	margin:10px;
+	font-family:Microsoft Yahei Light;
+}
+code{
+  background-color:rgba(10,10,10,0.85);
+	color:white;
+  border-radius:3px;
+	padding:10px;
+	margin:10px;
+  font-family:Consolas;
+}
 body {
   background:url(https://grace2525.github.io/img/705ff891b38646a9777187ef7006b5d679c3d0dd.jpg@942w_531h_progressive.webp.jpg) fixed center;
   background-size:cover;
