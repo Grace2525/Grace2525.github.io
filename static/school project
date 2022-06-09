@@ -1,0 +1,11 @@
+.choose{
+    background-color:#7B7B7B;
+    color:white;
+    padding:16px;
+    font-size:16px;
+    border:none;
+    cursor:pointer;
+}
+.choose:hover{
+    background-color:#ADADAD;
+}
