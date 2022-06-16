@@ -26,7 +26,10 @@ code{
 	color:white;
   border-radius:3px;
 	padding:10px;
-	margin:10px;
+	margin-top:10px;
+	margin-bottom:10px;
+	margin-left:40px;
+	margin-right:40px;
   font-family:Consolas;
 }
 body {
