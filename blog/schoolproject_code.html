@@ -73,23 +73,23 @@
       judge=0
       if leftNumber<rightNumber:
           if computerJudge=='左边小' or computerJudge=='右边大':
-              if -50<=x<=0:
+              if -50&lt;=x&lt;=0:
                   judge=True
               else:
                   judge=False
           else:
-              if -50<=x<=0:
+              if -50&lt;=x&lt;=0:
                   judge=False
               else:
                   judge=True         
       else:
           if computerJudge=='左边小' or computerJudge=='右边大':
-              if -50<=x<=0:
+              if -50&lt;=x&lt;=0:
                   judge=False
               else:
                   judge=True
           else:
-              if -50<=x<=0:
+              if -50&lt;=x&lt;=0:
                   judge=True
               else:
                   judge=False        
@@ -120,10 +120,10 @@
   t.onscreenclick(writeAnswer)
   def isClickButten(x,y):
       global click
-      if -50<=x<=50:
-          if -50<=y<=0:
+      if -50&lt;=x&lt;=50:
+          if -50&lt;=y&lt;=0:
               click=True
-          elif -100<=y<=-50:
+          elif -100&lt;=y&lt;=-50:
               click=None
       else:
           clike=False
