@@ -22,12 +22,12 @@ blockquote{
 	margin:10px;
 }
 code{
-  background-color:rgba(10,10,10,0.85);
+	font-family:Consolas;
+}
+pre{
+	background-color:rgba(10,10,10,0.85);
+	font-family:Consolas;
 	color:white;
-  border-radius:3px;
-	padding:10px;
-	margin:10px;
-  font-family:Consolas;
 }
 body {
   background:url(https://grace2525.github.io/img/705ff891b38646a9777187ef7006b5d679c3d0dd.jpg@942w_531h_progressive.webp.jpg) fixed center;
