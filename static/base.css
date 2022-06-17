@@ -26,7 +26,7 @@ code{
 }
 pre{
 	background-color:rgba(10,10,10,0.85);
-	radius:3px;
+	border-radius:3px;
 	padding:15px;
 	font-family:Consolas;
 	color:white;
