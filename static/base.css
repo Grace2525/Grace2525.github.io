@@ -32,16 +32,17 @@ pre{
 	color:white;
 }
 body {
-  background:url(https://grace2525.github.io/img/705ff891b38646a9777187ef7006b5d679c3d0dd.jpg@942w_531h_progressive.webp.jpg) fixed center;
-  background-size:cover;
+	background:url(https://grace2525.github.io/img/705ff891b38646a9777187ef7006b5d679c3d0dd.jpg@942w_531h_progressive.webp.jpg) fixed center;
+	background-size:cover;
 }
 
 /*导航栏*/
 .nav{
-  top:0px;
-  position:fixed;
-  width:100%;
-  background-color:rgba(158,214,251,0.95);
+	top:0px;
+	
+	position:fixed;
+	width:100%;
+	background-color:rgba(158,214,251,0.95);
 	z-index:100;
 }
 .nav ul{
@@ -69,7 +70,7 @@ body {
   color:white;
   text-align:center;
   padding:20px;
-  width:1860px;
+  width:1865px;
   height:130px;
   float:right;
 }
