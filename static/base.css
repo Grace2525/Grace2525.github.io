@@ -66,6 +66,7 @@ body {
 }
 /*页脚*/
 .footer{
+	bottom:0px;
 	left:0px;
 	background-color:rgba(70,130,180,0.85);
 	color:white;
